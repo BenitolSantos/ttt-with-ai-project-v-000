@@ -3,7 +3,6 @@ module Players
     def move(board)
       rand(1...9)
     end
-
   end
 
 
